@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "performance", "performance\performance.vcxproj", "{AEE3E682-AB01-4D1A-9C20-B93C8856691D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug-GPU|Mixed Platforms = Debug-GPU|Mixed Platforms
+		Debug-GPU|Win32 = Debug-GPU|Win32
+		Debug-GPU|x64 = Debug-GPU|x64
+		Debug-preprocess|Mixed Platforms = Debug-preprocess|Mixed Platforms
+		Debug-preprocess|Win32 = Debug-preprocess|Win32
+		Debug-preprocess|x64 = Debug-preprocess|x64
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release-clean|Mixed Platforms = Release-clean|Mixed Platforms
+		Release-clean|Win32 = Release-clean|Win32
+		Release-clean|x64 = Release-clean|x64
+		Release-GPU|Mixed Platforms = Release-GPU|Mixed Platforms
+		Release-GPU|Win32 = Release-GPU|Win32
+		Release-GPU|x64 = Release-GPU|x64
+		Release-GPU-P6000|Mixed Platforms = Release-GPU-P6000|Mixed Platforms
+		Release-GPU-P6000|Win32 = Release-GPU-P6000|Win32
+		Release-GPU-P6000|x64 = Release-GPU-P6000|x64
+		Release-preprocess|Mixed Platforms = Release-preprocess|Mixed Platforms
+		Release-preprocess|Win32 = Release-preprocess|Win32
+		Release-preprocess|x64 = Release-preprocess|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug|Win32.ActiveCfg = Debug|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug|x64.ActiveCfg = Debug|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug|x64.Build.0 = Debug|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug-GPU|Mixed Platforms.ActiveCfg = Debug-GPU|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug-GPU|Mixed Platforms.Build.0 = Debug-GPU|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug-GPU|Win32.ActiveCfg = Debug-GPU|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug-GPU|x64.ActiveCfg = Debug-GPU|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug-GPU|x64.Build.0 = Debug-GPU|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug-preprocess|Mixed Platforms.ActiveCfg = Debug-preprocess|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug-preprocess|Mixed Platforms.Build.0 = Debug-preprocess|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug-preprocess|Win32.ActiveCfg = Debug-preprocess|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug-preprocess|x64.ActiveCfg = Debug-preprocess|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Debug-preprocess|x64.Build.0 = Debug-preprocess|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release|Mixed Platforms.Build.0 = Release|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release|Win32.ActiveCfg = Release|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release|x64.ActiveCfg = Release|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release|x64.Build.0 = Release|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-clean|Mixed Platforms.ActiveCfg = Release-clean|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-clean|Mixed Platforms.Build.0 = Release-clean|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-clean|Win32.ActiveCfg = Release-clean|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-clean|x64.ActiveCfg = Release-clean|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-clean|x64.Build.0 = Release-clean|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-GPU|Mixed Platforms.ActiveCfg = Release-GPU|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-GPU|Mixed Platforms.Build.0 = Release-GPU|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-GPU|Win32.ActiveCfg = Release-GPU|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-GPU|x64.ActiveCfg = Release-GPU|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-GPU|x64.Build.0 = Release-GPU|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-GPU-P6000|Mixed Platforms.ActiveCfg = Release-GPU-P6000|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-GPU-P6000|Mixed Platforms.Build.0 = Release-GPU-P6000|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-GPU-P6000|Win32.ActiveCfg = Release-GPU-P6000|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-GPU-P6000|x64.ActiveCfg = Release-GPU-P6000|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-GPU-P6000|x64.Build.0 = Release-GPU-P6000|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-preprocess|Mixed Platforms.ActiveCfg = Release-preprocess|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-preprocess|Mixed Platforms.Build.0 = Release-preprocess|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-preprocess|Win32.ActiveCfg = Release-preprocess|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-preprocess|x64.ActiveCfg = Release-preprocess|x64
+		{AEE3E682-AB01-4D1A-9C20-B93C8856691D}.Release-preprocess|x64.Build.0 = Release-preprocess|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
